@@ -20,7 +20,7 @@ A aplicação tem o seguinte fluxo de trabalho:
 
 ---
 
-## 🏗️ Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 multi_agent_system/
