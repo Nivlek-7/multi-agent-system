@@ -1,0 +1,105 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.env.bak/
+.venv/
+env/
+ENV/
+env.bak/
+
+# Environment & secrets
+*.env
+*.env.*
+!.env.example
+
+# Build / distribution artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Logs / runtime files
+*.log
+logs/
+*.pid
+*.seed
+*.out
+*.bak
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.swn
+.DS_Store
+Thumbs.db
+
+# MyPy / type checking
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+
+# FastAPI / Uvicorn
+*.db
+*.sqlite3
+*.sqlite
+*.db-journal
+
+# Local data / temp files
+tmp/
+temp/
+*.tmp
+*.local
+*.bak
+
+# CrewAI specific cache
+crewai_cache/
+.output/
+.output_cache/
+artifacts/
+*.crew.json
+*.crew.yaml
+*.crew.tmp
+
+# OS generated files
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Editor backups
+*~
+
+# Python REPL history
+.python_history
+
+
+
